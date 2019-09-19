@@ -48,7 +48,35 @@ public class TwelveDays {
 	}
 	public static void intro() {
 		System.out.println("my true love sent to me");
-
 	}
-
+	public static void Day3() {
+		System.out.println("");
+	}
+	public static void Day4() {
+		System.out.println("");
+	}
+	public static void Day5() {
+		System.out.println("");
+	}
+	public static void Day6() {
+		System.out.println("");
+	}
+	public static void Day7() {
+		System.out.println("");
+	}
+	public static void Day8() {
+		System.out.println("");
+	}
+	public static void Day9() {
+		System.out.println("");
+	}
+	public static void Day10() {
+		System.out.println("");
+	}
+	public static void Day11() {
+		System.out.println("");
+	}
+	public static void Day12() {
+		System.out.println("");
+	}
 }
