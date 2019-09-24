@@ -1,0 +1,6 @@
+Extra Credit:		7/10
+
+Correct Output:		4/5 ("tenth" isn't spelled "ninth")
+Consistent Style: 	1/2 (Day 12 closing bracket)
+Optimal Efficiency:	2/2
+Good Comments:		0/1
